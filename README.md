@@ -1,9 +1,9 @@
 ### Hi, I'm Ari 👋
 
 I'm a Data Scientist, AI Researcher, Speaker, and Leader who is constantly experimenting, and a tinker at heart... 
-- 🔭 I'll be joining [Beyond Limits](https://beyond.ai) in July 2021 in their AI Solutions Team under the CTO Division.
-- ⚡ I'm always listening to Podcasts along my daily escapes around the city.
-- 😅 Fun fact: I've gone globetrotting around many countries and ended up scaling Mount Everest, a bit past Base Camp.
+- 🔭 I joined [Beyond Limits](https://beyond.ai) in 2021 in their AI Solutions Team under the CTO Division.
+- ⚡ I'm always listening to Podcasts as I stroll through the city.
+- 😅 Fun fact: I've gone globetrotting around many countries and ended up scaling Mount Everest, a bit past Base Camp...
 
 I'm best reached via [email](mailto:akamlani@gmail.com). I'm always open to interesting conversations and collaboration.
 

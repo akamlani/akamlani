@@ -1,9 +1,8 @@
 ### Hi, I'm Ari 👋
 
 I'm a Data Scientist, Strategist, and AI Technology Leader who is constantly experimenting, innovating, and tinkering... 
-- 🔭 I joined [Beyond Limits](https://beyond.ai) in 2021 in their CTO Office, but have since departed in September 2023.
-- 🔭 Since then I have taken on AI consulting / advisory functions in the interim.
-- ⚡ I'm always listening to Podcasts as I stroll through the city.
+- 🔭Since late 2023, I have been operating my own AI Consulting Technology and Strategic Advisory Firm
+- ⚡ I'm always listening to Podcasts as I stroll through the city
 - 😅 Fun fact: I've gone globetrotting around many countries and ended up scaling Mount Everest, a bit past Base Camp...
 
 I'm best reached via [email](mailto:akamlani@gmail.com). I'm always open to interesting conversations and collaboration.
